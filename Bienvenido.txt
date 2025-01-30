@@ -1,3 +1,5 @@
-Bienvenidos al Ejemplo de GitHub
+Bienvenidos al Ejemplo de GitHub - | 
 
 Nombre: Antony Fernandez
+
+Bienvenido, Saluda Alexis.
