@@ -1,5 +1,5 @@
-Bienvenidos al Ejemplo de GitHub - | 
+Bienvenidos al Ejemplo de GitHub - | Prueba Practica
 
 Nombre: Antony Fernandez
 
-Bienvenido, Saluda Alexis.
+Bienvenido, Saluda cordialmente Alexis.
